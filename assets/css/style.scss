@@ -12,13 +12,38 @@
   color: #fff;
 }
 
+h2, h3 {
+  color: #fff;
+}
+
 p {
   font-family: 'Crimson Pro';
   font-size: 18px;
 }
 
+p a {
+  font-size: 14px;
+}
+
 a {
   color: #ead;
+}
+
+a:hover {
+  color: #f6c;
+  font-weight: 400;
+}
+
+.small {
+  color: #f6c;
+}
+
+p code {
+  color: #cde;
+}
+
+code .p {
+  color: #000;
 }
 
 body {
